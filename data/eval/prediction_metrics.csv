@@ -1,0 +1,3 @@
+metode_prediksi,accuracy,precision_macro,recall_macro,f1_macro
+Majority Vote,0.875,0.625,0.75,0.667
+Weighted Similarity,0.875,0.625,0.75,0.667
