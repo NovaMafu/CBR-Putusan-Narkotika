@@ -1,0 +1,143 @@
+[
+  {
+    "query_id": "Q020",
+    "query_text": "Bahwa pada hari dan tanggal sebagaimana tersebut di atas, Terdakwa Candra Susanto Alias GILANG ditangkap oleh petugas Kepolisian berdasarkan informasi masyarakat terkait dugaan tindak pidana narkotika di wilayah hukum PN PALEMBANG. Pada saat dilakukan penangkapan dan penggeledahan badan maupun tempat tinggal Terdakwa, ditemukan barang bukti berupa pil ekstasi dengan berat/jumlah kurang lebih 106.3",
+    "ground_truth_case_id": 20,
+    "ground_truth_relevant_case_ids": [
+      1,
+      3,
+      4,
+      8,
+      10,
+      18,
+      20,
+      23,
+      30,
+      33
+    ],
+    "ground_truth_outcome_label": "Pidana Penjara > 8 Tahun"
+  },
+  {
+    "query_id": "Q017",
+    "query_text": "Bahwa pada hari dan tanggal sebagaimana tersebut di atas, Terdakwa Eko Setiawan ditangkap oleh petugas Kepolisian berdasarkan informasi masyarakat terkait dugaan tindak pidana narkotika di wilayah hukum PN PEKANBARU. Pada saat dilakukan penangkapan dan penggeledahan badan maupun tempat tinggal Terdakwa, ditemukan barang bukti berupa sabu-sabu (metamfetamina) dengan berat/jumlah kurang lebih 18.77 ",
+    "ground_truth_case_id": 17,
+    "ground_truth_relevant_case_ids": [
+      13,
+      14,
+      16,
+      17,
+      19,
+      21,
+      25,
+      28,
+      32,
+      38
+    ],
+    "ground_truth_outcome_label": "Pidana Penjara 4-8 Tahun"
+  },
+  {
+    "query_id": "Q016",
+    "query_text": "Bahwa pada hari dan tanggal sebagaimana tersebut di atas, Terdakwa Fajar Gunawan Alias PUTRA ditangkap oleh petugas Kepolisian berdasarkan informasi masyarakat terkait dugaan tindak pidana narkotika di wilayah hukum PN SURABAYA. Pada saat dilakukan penangkapan dan penggeledahan badan maupun tempat tinggal Terdakwa, ditemukan barang bukti berupa tembakau sintetis dengan berat/jumlah kurang lebih 36",
+    "ground_truth_case_id": 16,
+    "ground_truth_relevant_case_ids": [
+      13,
+      14,
+      16,
+      17,
+      19,
+      21,
+      25,
+      28,
+      32,
+      38
+    ],
+    "ground_truth_outcome_label": "Pidana Penjara 4-8 Tahun"
+  },
+  {
+    "query_id": "Q027",
+    "query_text": "Bahwa pada hari dan tanggal sebagaimana tersebut di atas, Terdakwa Budi Pratama Alias UMAR ditangkap oleh petugas Kepolisian berdasarkan informasi masyarakat terkait dugaan tindak pidana narkotika di wilayah hukum PN PALEMBANG. Pada saat dilakukan penangkapan dan penggeledahan badan maupun tempat tinggal Terdakwa, ditemukan barang bukti berupa pil ekstasi dengan berat/jumlah kurang lebih 55.19 but",
+    "ground_truth_case_id": 27,
+    "ground_truth_relevant_case_ids": [
+      11,
+      15,
+      22,
+      24,
+      27,
+      31,
+      34
+    ],
+    "ground_truth_outcome_label": "Pidana Penjara < 1 Tahun"
+  },
+  {
+    "query_id": "Q005",
+    "query_text": "Bahwa pada hari dan tanggal sebagaimana tersebut di atas, Terdakwa Lukman Setiawan Alias YUSUF ditangkap oleh petugas Kepolisian berdasarkan informasi masyarakat terkait dugaan tindak pidana narkotika di wilayah hukum PN MALANG. Pada saat dilakukan penangkapan dan penggeledahan badan maupun tempat tinggal Terdakwa, ditemukan barang bukti berupa ganja kering dengan berat/jumlah kurang lebih 269.4 g",
+    "ground_truth_case_id": 5,
+    "ground_truth_relevant_case_ids": [
+      2,
+      5,
+      6,
+      9,
+      29,
+      35,
+      36,
+      37,
+      39,
+      40
+    ],
+    "ground_truth_outcome_label": "Pidana Penjara 1-4 Tahun"
+  },
+  {
+    "query_id": "Q013",
+    "query_text": "Bahwa pada hari dan tanggal sebagaimana tersebut di atas, Terdakwa Candra Susanto Alias HENDRA ditangkap oleh petugas Kepolisian berdasarkan informasi masyarakat terkait dugaan tindak pidana narkotika di wilayah hukum PN JAKARTA SELATAN. Pada saat dilakukan penangkapan dan penggeledahan badan maupun tempat tinggal Terdakwa, ditemukan barang bukti berupa ganja kering dengan berat/jumlah kurang lebi",
+    "ground_truth_case_id": 13,
+    "ground_truth_relevant_case_ids": [
+      13,
+      14,
+      16,
+      17,
+      19,
+      21,
+      25,
+      28,
+      32,
+      38
+    ],
+    "ground_truth_outcome_label": "Pidana Penjara 4-8 Tahun"
+  },
+  {
+    "query_id": "Q038",
+    "query_text": "Bahwa pada hari dan tanggal sebagaimana tersebut di atas, Terdakwa Irwan Gunawan ditangkap oleh petugas Kepolisian berdasarkan informasi masyarakat terkait dugaan tindak pidana narkotika di wilayah hukum PN MEDAN. Pada saat dilakukan penangkapan dan penggeledahan badan maupun tempat tinggal Terdakwa, ditemukan barang bukti berupa sabu-sabu (metamfetamina) dengan berat/jumlah kurang lebih 18.8 gram",
+    "ground_truth_case_id": 38,
+    "ground_truth_relevant_case_ids": [
+      13,
+      14,
+      16,
+      17,
+      19,
+      21,
+      25,
+      28,
+      32,
+      38
+    ],
+    "ground_truth_outcome_label": "Pidana Penjara 4-8 Tahun"
+  },
+  {
+    "query_id": "Q028",
+    "query_text": "Bahwa pada hari dan tanggal sebagaimana tersebut di atas, Terdakwa Lukman Gunawan Alias CANDRA ditangkap oleh petugas Kepolisian berdasarkan informasi masyarakat terkait dugaan tindak pidana narkotika di wilayah hukum PN JAKARTA SELATAN. Pada saat dilakukan penangkapan dan penggeledahan badan maupun tempat tinggal Terdakwa, ditemukan barang bukti berupa pil ekstasi dengan berat/jumlah kurang lebih",
+    "ground_truth_case_id": 28,
+    "ground_truth_relevant_case_ids": [
+      13,
+      14,
+      16,
+      17,
+      19,
+      21,
+      25,
+      28,
+      32,
+      38
+    ],
+    "ground_truth_outcome_label": "Pidana Penjara 4-8 Tahun"
+  }
+]
